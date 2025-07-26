@@ -1,0 +1,85 @@
+---
+title: "claseLImno3"
+author: "Alejo Bonifacio"
+format: revealjs
+editor: visual
+---
+
+## Diapositiva 1: Portada
+
+**Título:** Metabolismo y funciones ecosistémicas en ríos\
+**Subtítulo:** Clase 3 - Ecología Fluvial\
+**Duración estimada:** 2 horas\
+**Docente:** \[Tu nombre\]
+
+------------------------------------------------------------------------
+
+## Diapositiva 2: Objetivos
+
+-   Comprender el metabolismo ecosistémico de ríos
+-   Conocer métodos de medición de GPP y ER
+-   Analizar funciones ecosistémicas clave
+-   Discutir el papel del caudal y el impacto humano
+
+------------------------------------------------------------------------
+
+## Diapositiva 3: ¿Qué es el metabolismo de un río?
+
+-   Producción primaria bruta (GPP)
+-   Respiración ecosistémica (ER)
+-   Producción neta del ecosistema (NEP)
+
+------------------------------------------------------------------------
+
+## Diapositiva 4: Métodos de medición
+
+-   Sondas de oxígeno disuelto
+-   Modelos diel y curvas de saturación
+-   Consideraciones estacionales y climáticas
+
+------------------------------------------------------------------------
+
+## Diapositiva 5: Ejemplo: Bernhardt et al. (2017)
+
+-   Clasificación de regímenes metabólicos
+-   Desacople entre metabolismo y cobertura terrestre
+
+------------------------------------------------------------------------
+
+## Diapositiva 6: Funciones ecosistémicas clave
+
+-   Retención de nutrientes
+-   Descomposición de hojarasca
+-   Ciclos de carbono y nitrógeno
+
+------------------------------------------------------------------------
+
+## Diapositiva 7: Actividad: análisis de curvas diel
+
+-   Interpretar gráficos de oxígeno
+-   Comparar escenarios de alto y bajo GPP
+-   Discusión grupal
+
+------------------------------------------------------------------------
+
+## Diapositiva 8: Impactos sobre el metabolismo
+
+-   Represas, deforestación, agricultura
+-   Cambios en sombra, temperatura, nutrientes
+
+------------------------------------------------------------------------
+
+## Diapositiva 9: Evaluación ecológica y conservación
+
+-   Metabolismo como indicador funcional
+-   Propuestas de restauración de ríos
+
+------------------------------------------------------------------------
+
+## Diapositiva 10: Cierre del curso
+
+-   Revisión de contenidos
+-   Conexión entre estructura, función y manejo
+
+------------------------------------------------------------------------
+  

@@ -1,0 +1,110 @@
+---
+title: "claseLimno2"
+author: "Alejo Bonifacio"
+format: revealjs
+editor: visual
+---
+
+## Diapositiva 1: Portada
+
+**Título:** Ensambles de peces en ríos y su respuesta a perturbaciones\
+**Subtítulo:** Clase 2 - Ecología Fluvial\
+**Duración estimada:** 2 horas\
+**Docente:** \[Tu nombre\]
+
+------------------------------------------------------------------------
+
+## Diapositiva 2: Objetivos
+
+-   Comprender cómo se estructuran los ensambles de peces en sistemas lóticos
+-   Reconocer los factores ambientales y antrópicos que los afectan
+-   Evaluar respuestas de la ictiofauna a disturbios
+-   Introducir métodos de muestreo y análisis funcional
+
+------------------------------------------------------------------------
+
+## Diapositiva 3: ¿Qué es un ensamble íctico?
+
+-   Conjunto de especies de peces que coexisten en un tramo de río
+-   Se estructura según gradientes físicos, químicos y biológicos
+
+------------------------------------------------------------------------
+
+## Diapositiva 4: Factores estructurantes
+
+-   Caudal y régimen hidrológico
+-   Sustrato, cobertura y conectividad
+-   Temperatura, oxígeno, nutrientes
+-   Actividad humana: represas, contaminación, uso del suelo
+
+------------------------------------------------------------------------
+
+## Diapositiva 5: Estrategias adaptativas
+
+-   Especies reófilas vs limnófilas
+-   Migraciones reproductivas
+-   Fecundidad, crecimiento, uso de hábitat
+
+------------------------------------------------------------------------
+
+## Diapositiva 6: Tipos funcionales
+
+-   Predadores, detritívoros, insectívoros
+-   Generalistas vs especialistas
+-   Nativos vs exóticos
+
+------------------------------------------------------------------------
+
+## Diapositiva 7: Métodos de muestreo
+
+-   Redes de arrastre, electro-pesca, nasas
+-   Consideraciones éticas y estacionales
+-   Selección de mesohábitats y esfuerzo de captura
+
+------------------------------------------------------------------------
+
+## Diapositiva 8: Caso: Río Suquía (Córdoba)
+
+-   Gradiente de contaminación
+-   Cambios en abundancia y diversidad
+-   Dominancia de especies tolerantes
+
+------------------------------------------------------------------------
+
+## Diapositiva 9: Actividad de discusión (basada en Hued et al. y Actividades PECES)
+
+-   ¿Qué especies esperarías encontrar en un río contaminado?
+-   ¿Qué factores considerarías al planificar un muestreo?
+-   ¿Cómo evaluarías los cambios en la comunidad?
+
+------------------------------------------------------------------------
+
+## Diapositiva 10: Introducción a índices bióticos
+
+-   IBI (Índice de Integridad Biótica)
+-   Riqueza, equidad, proporción de tolerantes/sensibles
+
+------------------------------------------------------------------------
+
+## Diapositiva 11: Introducción a la funcionalidad ecológica
+
+-   Red trófica
+-   Resiliencia comunitaria
+-   Roles ecológicos
+
+------------------------------------------------------------------------
+
+## Diapositiva 12: Lecturas sugeridas
+
+-   Hued et al. (2010)
+-   Actividades clase PECES
+-   Ringuelet (1975)
+
+------------------------------------------------------------------------
+
+## Diapositiva 13: Para la próxima clase
+
+-   Tema: Metabolismo y funciones ecosistémicas
+-   Lectura: Bernhardt et al. (2017)
+
+------------------------------------------------------------------------

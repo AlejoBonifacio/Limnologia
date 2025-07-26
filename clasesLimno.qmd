@@ -1,0 +1,286 @@
+---
+title: "clase1-sistemas-loticos"
+author: "Alejo Bonifacio"
+format: revealjs
+editor: visual
+---
+
+---
+title: "Clase 1: Fundamentos de la Ecología de Ríos"
+format: revealjs
+editor: visual
+---
+
+## Objetivos de la clase
+
+- Diferenciar sistemas lóticos de sistemas lénticos.
+- Comprender la estructura longitudinal de los ríos.
+- Introducir el concepto de cuenca hidrográfica.
+- Explicar el modelo del River Continuum y sus críticas actuales.
+- Reconocer la diversidad de hábitats en ríos y su relación con los caudales ecológicos.
+
+---
+
+## 1. Características distintivas
+
+### Comparación Léntico vs Lótico
+
+| Característica        | Léntico                   | Lótico                       |
+|-----------------------|---------------------------|------------------------------|
+| Movimiento del agua   | Estacionario              | Unidireccional               |
+| Estratificación       | Vertical (luz, O₂, temp.) | Mezcla continua              |
+| Energía               | Autóctona                 | Autóctona + Alóctona         |
+| Dominancia biológica  | Plancton, macrófitas      | Algas bentónicas, invertebrados |
+
+---
+
+## 2. Zonación longitudinal
+
+- **Ritron** (cabeceras): *Trichomycterus corduvense*  
+- **Potamon** (tramos bajos): *Hoplias malabaricus*  
+
+**Caudal ecológico:**  
+*Astyanax eigenmanniorum* requiere caudales mínimos para migración.
+
+---
+
+## 3. Cuenca hidrográfica
+
+- Unidad funcional del paisaje
+- Controla flujo de agua, nutrientes y sedimentos
+
+**Tipos:**
+- Exorreicas
+- Endorreicas
+- Arreicas
+
+---
+
+## 4. River Continuum Concept
+
+- Vannote et al. (1980)
+- Gradiente de energía:
+  - Altos: hojarasca → trituradores
+  - Medios: algas → ramoneadores
+  - Bajos: detritos finos → colectores
+
+---
+
+## Críticas y teorías actuales
+
+- **Flood Pulse Concept** (Junk et al. 1989)
+- **Riverine Productivity Model** (Thorp & Delong 1994)
+- **Network Dynamics Hypothesis** (Benda et al. 2004)
+- **Meta-ecosystems**: intercambio de energía y organismos
+
+---
+
+## 5. Hábitats en ríos
+
+### Mesohábitats
+
+- Pozas, rápidos, remansos
+
+### Microhábitats
+
+- Caracterizados por: velocidad, profundidad, sustrato, cobertura
+
+---
+
+## Ejemplos sudamericanos
+
+- *Rhamdia quelen* – pozas
+- *Jenynsia multidentata* – vegetación sumergida
+- *Heptapterus mustelinus* – rápidos
+
+**Caudal ecológico** → mantiene hábitats críticos para todas las etapas del ciclo de vida
+
+---
+
+## Actividad en clase
+
+Analizar esquemas de tramos de ríos:  
+- Identificar hábitats  
+- Asociar especies  
+- Evaluar rol del caudal ecológico
+
+---
+
+## Lecturas recomendadas
+
+- Vannote et al. (1980)  
+- Junk et al. (1989)  
+- Thorp & Delong (1994)  
+- Benda et al. (2004)  
+- \"Ecología Fluvial - PECES\"
+
+## Diapositiva 1: Portada
+
+**Título:** Introducción a la Ecología Fluvial y los Sistemas Lóticos\
+**Subtítulo:** Clase 1 - Ecología Fluvial\
+**Duración estimada:** 2 horas\
+**Docente:** \[Tu nombre\]\
+**Institución:** \[Nombre de la institución\]
+
+------------------------------------------------------------------------
+
+## Diapositiva 2: Objetivos de la Clase
+
+-   Comprender qué es la ecología fluvial
+-   Reconocer las características de los ecosistemas lóticos
+-   Identificar procesos ecológicos clave en ríos y arroyos
+-   Analizar ejemplos regionales de estudios limnológicos
+-   Introducir modelos conceptuales sobre la organización ecológica de los ríos
+
+------------------------------------------------------------------------
+
+## Diapositiva 3: ¿Qué es la Ecología Fluvial?
+
+-   Rama de la limnología que estudia los ecosistemas acuáticos de corriente
+-   Enfoque interdisciplinario: biología, hidrología, química, geología
+-   Importancia ecológica y social de los ríos
+
+------------------------------------------------------------------------
+
+## Diapositiva 4: ¿Qué son los sistemas lóticos?
+
+-   Definición de ecosistemas lóticos: aguas corrientes
+-   Contraste con sistemas lénticos: aguas estancadas (lagos, lagunas)
+-   Elementos clave: caudal, pendiente, conectividad longitudinal
+
+------------------------------------------------------------------------
+
+## Diapositiva 5: Componentes físicos de los sistemas lóticos
+
+-   Hidrodinámica: velocidad de flujo, régimen hidrológico
+-   Geomorfología: cauce, sedimentos, márgenes
+-   Influencias climáticas y geográficas
+
+------------------------------------------------------------------------
+
+## Diapositiva 6: Tipos de hábitats en ríos
+
+-   Rápidos, remansos, pozos, orillas
+-   Microhábitats asociados a velocidad, profundidad, y substrato
+
+------------------------------------------------------------------------
+
+## Diapositiva 7: La cuenca hidrográfica
+
+-   Unidad funcional para el estudio de sistemas fluviales
+-   Aportes de agua, nutrientes y sedimentos
+-   Influencia del uso del suelo en la cuenca
+
+------------------------------------------------------------------------
+
+## Diapositiva 8: Gradiente longitudinal y zonación
+
+-   Concepto del Continuum Fluvial (RCC - River Continuum Concept)
+-   Cambios físicos, químicos y biológicos desde cabecera a desembocadura
+-   Organismos dominantes: trituradores, ramoneadores, colectores, depredadores
+
+------------------------------------------------------------------------
+
+## Diapositiva 9: ¿Es el RCC una teoría paradigmática?
+
+-   El RCC fue durante décadas el modelo dominante
+-   Críticas: visión lineal, falta de consideración de perturbaciones, llanuras de inundación y subsidios laterales
+-   Hoy se lo considera un marco de referencia, pero no único ni universal
+
+------------------------------------------------------------------------
+
+## Diapositiva 10: Modelos complementarios al RCC
+
+-   **Flood Pulse Concept** (Junk et al., 1989)
+-   **Riverine Productivity Model** (Thorp & Delong, 1994)
+-   **Serial Discontinuity Concept** (Ward & Stanford, 1983)
+-   **Network Dynamics Hypothesis** (Benda et al., 2004)
+-   **Metabolic Regimes** (Bernhardt et al., 2017)
+
+------------------------------------------------------------------------
+
+## Diapositiva 11: Procesos ecológicos clave
+
+-   Producción primaria y respiración del ecosistema
+-   Ciclo de nutrientes (nitrógeno, fósforo)
+-   Descomposición de materia orgánica
+
+------------------------------------------------------------------------
+
+## Diapositiva 12: El metabolismo del ecosistema
+
+-   GPP, ER y NEP
+-   Régimen metabólico: autotrófico vs heterotrófico
+
+------------------------------------------------------------------------
+
+## Diapositiva 13: Biodiversidad en ríos
+
+-   Macrófitas, macroinvertebrados, peces, perifiton
+-   Adaptaciones a la corriente
+
+------------------------------------------------------------------------
+
+## Diapositiva 14: Peces de agua corriente
+
+-   Ejemplos: bagres, sábalos, mojarras
+-   Roles funcionales
+-   Influencia del régimen hidrológico
+
+------------------------------------------------------------------------
+
+## Diapositiva 15: Actividad 1 – Exploración de conceptos clave
+
+-   Leer Dodds & Whiles (Cap. 1)
+-   Discusión grupal: servicios ecosistémicos
+-   Pregunta guía: ¿Por qué estudiar ríos hoy?
+
+------------------------------------------------------------------------
+
+## Diapositiva 16: Actividad 2 – Trayectoria de una gota de agua
+
+-   Simular el recorrido desde cabecera a desembocadura
+-   Reflexionar sobre caudal, biodiversidad y usos
+
+------------------------------------------------------------------------
+
+## Diapositiva 17: Ejemplo regional – Cuenca del Plata
+
+-   Nogueira et al. (2021)
+-   Impactos de represas, contaminación, estacionalidad
+
+------------------------------------------------------------------------
+
+## Diapositiva 18: Caso de estudio – Laguna Melincué
+
+-   Hued et al. (2010)
+-   Cambios limnológicos y efectos del uso del suelo
+
+------------------------------------------------------------------------
+
+## Diapositiva 19: Rol de la ecología fluvial en conservación
+
+-   Indicadores ecológicos
+-   Restauración y gestión de cuencas
+
+------------------------------------------------------------------------
+
+## Diapositiva 20: Para seguir leyendo
+
+-   Lampert & Sommer, Dodds & Whiles
+-   Bernhardt et al., Nogueira et al.
+
+------------------------------------------------------------------------
+
+## Diapositiva 21: Para la próxima clase
+
+-   Tema: Comunidad biótica de los ríos
+-   Lecturas: PECES y actividades
+
+------------------------------------------------------------------------
+
+## Diapositiva 22: Cierre
+
+-   Preguntas y repaso
+-   Comentarios finales
+

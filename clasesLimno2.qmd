@@ -7,104 +7,137 @@ editor: visual
 
 ## Diapositiva 1: Portada
 
-**Título:** Ensambles de peces en ríos y su respuesta a perturbaciones\
+**Título:** Biota de ríos y respuestas a disturbios\
 **Subtítulo:** Clase 2 - Ecología Fluvial\
 **Duración estimada:** 2 horas\
-**Docente:** \[Tu nombre\]
+**Docente:** \[Tu nombre\]\
+**Institución:** \[Nombre de la institución\]
 
 ------------------------------------------------------------------------
 
 ## Diapositiva 2: Objetivos
 
--   Comprender cómo se estructuran los ensambles de peces en sistemas lóticos
--   Reconocer los factores ambientales y antrópicos que los afectan
--   Evaluar respuestas de la ictiofauna a disturbios
--   Introducir métodos de muestreo y análisis funcional
+-   Reconocer los principales grupos biológicos en sistemas lóticos, incluyendo peces, macroinvertebrados, perifiton y macrófitas.
+-   Analizar patrones de distribución, adaptaciones y relaciones funcionales dentro del ecosistema fluvial.
+-   Evaluar cómo responde la biota a perturbaciones de origen antrópico y natural.
+-   Introducir el uso de índices bióticos, funcionales y métricas ecológicas para monitoreo.
+-   Presentar casos regionales representativos y conceptos avanzados como el síndrome del arroyo urbano.
 
 ------------------------------------------------------------------------
 
-## Diapositiva 3: ¿Qué es un ensamble íctico?
+## Diapositiva 3: Grupos funcionales principales en sistemas lóticos
 
--   Conjunto de especies de peces que coexisten en un tramo de río
--   Se estructura según gradientes físicos, químicos y biológicos
-
-------------------------------------------------------------------------
-
-## Diapositiva 4: Factores estructurantes
-
--   Caudal y régimen hidrológico
--   Sustrato, cobertura y conectividad
--   Temperatura, oxígeno, nutrientes
--   Actividad humana: represas, contaminación, uso del suelo
+-   **Peces**: Roles tróficos (predadores, detritívoros, insectívoros), adaptaciones a velocidad de corriente y oxigenación.
+-   **Macroinvertebrados bentónicos**: Clasificación funcional (filtradores, recolectores, fragmentadores), indicadores clave de calidad.
+-   **Perifiton y algas bentónicas**: Base de la cadena trófica en sectores iluminados, sensibilidad a nutrientes.
+-   **Macrófitas acuáticas**: Proporcionan hábitat, refugio y oxígeno; pueden proliferar en condiciones eutróficas.
 
 ------------------------------------------------------------------------
 
-## Diapositiva 5: Estrategias adaptativas
+## Diapositiva 4: Factores que estructuran la biota fluvial
 
--   Especies reófilas vs limnófilas
--   Migraciones reproductivas
--   Fecundidad, crecimiento, uso de hábitat
-
-------------------------------------------------------------------------
-
-## Diapositiva 6: Tipos funcionales
-
--   Predadores, detritívoros, insectívoros
--   Generalistas vs especialistas
--   Nativos vs exóticos
+-   **Factores físicos**: Velocidad de corriente, sustrato, profundidad, pendiente, conectividad longitudinal y lateral.
+-   **Factores químicos**: Oxígeno disuelto, pH, conductividad, concentración de nutrientes, contaminantes.
+-   **Factores biológicos**: Interacciones interespecíficas, competencia, depredación, parasitismo.
+-   **Factores antrópicos**: Urbanización, agricultura, represas, contaminación puntual y difusa.
 
 ------------------------------------------------------------------------
 
-## Diapositiva 7: Métodos de muestreo
+## Diapositiva 5: Ensambles ícticos en Sudamérica
 
--   Redes de arrastre, electro-pesca, nasas
--   Consideraciones éticas y estacionales
--   Selección de mesohábitats y esfuerzo de captura
-
-------------------------------------------------------------------------
-
-## Diapositiva 8: Caso: Río Suquía (Córdoba)
-
--   Gradiente de contaminación
--   Cambios en abundancia y diversidad
--   Dominancia de especies tolerantes
+-   Alta diversidad de especies en cuencas tropicales y subtropicales.
+-   Ejemplos:
+    -   *Trichomycterus corduvense*: peces bentónicos en tramos altos, con adaptaciones a la corriente.
+    -   *Hoplias malabaricus*: especie tolerante, frecuente en zonas lentas del potamon.
+    -   *Rhamdia quelen*: amplia distribución, buena tolerancia a cambios ambientales.
+-   Composición varía según régimen hidrológico, conectividad y cobertura de vegetación ribereña.
 
 ------------------------------------------------------------------------
 
-## Diapositiva 9: Actividad de discusión (basada en Hued et al. y Actividades PECES)
+## Diapositiva 6: Adaptaciones morfológicas y conductuales
 
--   ¿Qué especies esperarías encontrar en un río contaminado?
--   ¿Qué factores considerarías al planificar un muestreo?
--   ¿Cómo evaluarías los cambios en la comunidad?
-
-------------------------------------------------------------------------
-
-## Diapositiva 10: Introducción a índices bióticos
-
--   IBI (Índice de Integridad Biótica)
--   Riqueza, equidad, proporción de tolerantes/sensibles
+-   **Morfológicas**: Cuerpo fusiforme, presencia de ventosas o estructuras de fijación, forma de la boca.
+-   **Conductuales**: Selección de hábitat, tolerancia a la hipoxia, patrones reproductivos migratorios o residentes.
+-   Relación entre adaptaciones y tipos de hábitats: pozas, rápidos, vegetación sumergida.
 
 ------------------------------------------------------------------------
 
-## Diapositiva 11: Introducción a la funcionalidad ecológica
+## Diapositiva 7: Cambios inducidos por disturbios en la biota
 
--   Red trófica
--   Resiliencia comunitaria
--   Roles ecológicos
-
-------------------------------------------------------------------------
-
-## Diapositiva 12: Lecturas sugeridas
-
--   Hued et al. (2010)
--   Actividades clase PECES
--   Ringuelet (1975)
+-   **Contaminación orgánica**: Disminución de oxígeno, proliferación de especies tolerantes.
+-   **Contaminación industrial**: Presencia de metales pesados, alteraciones reproductivas.
+-   **Fragmentación fluvial**: Interrupción de migraciones, aislamiento de poblaciones.
+-   **Reducción del caudal**: Pérdida de hábitats críticos, aumento de temperatura y conductividad.
 
 ------------------------------------------------------------------------
 
-## Diapositiva 13: Para la próxima clase
+## Diapositiva 8: El síndrome del arroyo urbano (Urban Stream Syndrome)
 
--   Tema: Metabolismo y funciones ecosistémicas
--   Lectura: Bernhardt et al. (2017)
+-   Descripción del patrón recurrente observado en arroyos que atraviesan áreas urbanizadas:
+    -   Aumento del caudal pico por escorrentía superficial (efecto "flashy")
+    -   Contaminación difusa por aguas pluviales, efluentes y residuos urbanos
+    -   Reducción de la biodiversidad, pérdida de taxones sensibles
+    -   Dominancia de especies resistentes, exóticas o oportunistas
+-   Alteración en procesos como retención de nutrientes, metabolismo y estructura del hábitat\
+    📚 *Basado en Walsh et al. (2005), Meyer et al.*
+
+------------------------------------------------------------------------
+
+## Diapositiva 9: Caso de estudio – Río Suquía (Córdoba)
+
+-   Río urbano-industrial con fuerte gradiente de impacto
+-   Cambios documentados en composición íctica a lo largo del tramo urbano
+-   Dominancia de especies tolerantes: *Cnesterodon decemmaculatus*, *Jenynsia multidentata*
+-   Pérdida de especies sensibles aguas abajo de la ciudad
+-   Ejemplo integrador para aplicar el Urban Stream Syndrome en contexto sudamericano
+
+------------------------------------------------------------------------
+
+## Diapositiva 10: Métodos de monitoreo biológico
+
+-   Muestreo estandarizado de peces (redes de arrastre, electro-pesca) y macroinvertebrados (kick-net, Surber).
+-   Consideraciones temporales: estacionalidad, caudales, temperatura.
+-   Selección de sitios: cuenca alta, media y baja; comparación entre zonas urbanas y rurales.
+-   Importancia de protocolos comparables y esfuerzos similares entre campañas.
+
+------------------------------------------------------------------------
+
+## Diapositiva 11: Índices bióticos y métricas ecológicas
+
+-   **IBI** (Índice de Integridad Biótica): integración de varias métricas como riqueza, abundancia de especies sensibles y proporción de exóticas.
+-   **EPT**: riqueza de Ephemeroptera, Plecoptera y Trichoptera (indicadores de buena calidad).
+-   **Índices funcionales**: número de gremios tróficos, redundancia funcional.
+-   Uso creciente de métricas multivariadas y modelado ecológico.
+
+------------------------------------------------------------------------
+
+## Diapositiva 12: Actividad de discusión
+
+**Trabajo en grupos:** - Analizar una matriz hipotética de especies de peces en tres sitios (cabecera, urbana, rural) - Preguntas guía: - ¿Qué cambios observás en la composición? - ¿Cuáles pueden explicarse por factores físicos o químicos? - ¿Qué implicancias tiene para la gestión de la cuenca?
+
+------------------------------------------------------------------------
+
+## Diapositiva 13: Lecturas sugeridas
+
+-   Hued et al. (2010): Cambios limnológicos en sistemas someros subtropicales
+-   Actividades clase PECES (Ecología fluvial)
+-   Walsh et al. (2005): Urban Stream Syndrome
+-   Ringuelet (1975): Peces continentales de Sudamérica
+
+------------------------------------------------------------------------
+
+## Diapositiva 14: Para la próxima clase
+
+-   Tema: Metabolismo y funciones ecosistémicas en ríos
+-   Lectura central: Bernhardt et al. (2017): The metabolic regimes of flowing waters
+-   Pensar cómo se relacionan los cambios en la biota con los procesos funcionales
+
+------------------------------------------------------------------------
+
+## Diapositiva 15: Cierre
+
+-   Recapitulación de conceptos: diversidad, adaptaciones, respuesta a disturbios
+-   Conexión entre estructura biológica y funcionamiento ecosistémico
+-   Importancia de integrar enfoques taxonómicos, funcionales y espaciales
 
 ------------------------------------------------------------------------

@@ -6,113 +6,113 @@ editor: visual
 ---
 
 ---
-title: "Clase 1: Fundamentos de la Ecología de Ríos"
-format: revealjs
-editor: visual
----
 
 ## Objetivos de la clase
 
-- Diferenciar sistemas lóticos de sistemas lénticos.
-- Comprender la estructura longitudinal de los ríos.
-- Introducir el concepto de cuenca hidrográfica.
-- Explicar el modelo del River Continuum y sus críticas actuales.
-- Reconocer la diversidad de hábitats en ríos y su relación con los caudales ecológicos.
+-   Diferenciar sistemas lóticos de sistemas lénticos.
+-   Comprender la estructura longitudinal de los ríos.
+-   Introducir el concepto de cuenca hidrográfica.
+-   Explicar el modelo del River Continuum y sus críticas actuales.
+-   Reconocer la diversidad de hábitats en ríos y su relación con los caudales ecológicos.
 
----
+------------------------------------------------------------------------
 
 ## 1. Características distintivas
 
 ### Comparación Léntico vs Lótico
 
-| Característica        | Léntico                   | Lótico                       |
-|-----------------------|---------------------------|------------------------------|
-| Movimiento del agua   | Estacionario              | Unidireccional               |
-| Estratificación       | Vertical (luz, O₂, temp.) | Mezcla continua              |
-| Energía               | Autóctona                 | Autóctona + Alóctona         |
-| Dominancia biológica  | Plancton, macrófitas      | Algas bentónicas, invertebrados |
+| Característica | Léntico | Lótico |
+|---------------------|------------------------|---------------------------|
+| Movimiento del agua | Estacionario | Unidireccional |
+| Estratificación | Vertical (luz, O₂, temp.) | Mezcla continua |
+| Energía | Autóctona | Autóctona + Alóctona |
+| Dominancia biológica | Plancton, macrófitas | Algas bentónicas, invertebrados |
 
----
+------------------------------------------------------------------------
 
-## 2. Zonación longitudinal
+## Zonación longitudinal
 
-- **Ritron** (cabeceras): *Trichomycterus corduvense*  
-- **Potamon** (tramos bajos): *Hoplias malabaricus*  
+Los ríos presentan un gradiente longitudinal que puede dividirse, clásicamente, en:
 
-**Caudal ecológico:**  
-*Astyanax eigenmanniorum* requiere caudales mínimos para migración.
+-   **Ritron:** tramo alto con alta velocidad, agua fría, oxigenada y sustrato grueso.
+    -   Ejemplo: *Trichomycterus corduvense*, adaptado a zonas rocosas y rápidas.
+-   **Potamon:** tramo bajo con aguas más lentas, cálidas y turbias, con sustrato fino.
+    -   Ejemplo: *Hoplias argentinensis*, tolera baja oxigenación y condiciones estables.
 
----
+------------------------------------------------------------------------
 
 ## 3. Cuenca hidrográfica
 
-- Unidad funcional del paisaje
-- Controla flujo de agua, nutrientes y sedimentos
+-   Unidad funcional del paisaje
+-   Controla flujo de agua, nutrientes y sedimentos
 
-**Tipos:**
-- Exorreicas
-- Endorreicas
-- Arreicas
+**Tipos:** - Exorreicas - Endorreicas - Arreicas
 
----
+------------------------------------------------------------------------
+
+## 3. Cuenca hidrográfica
+
+![ordenrios](ordenrios.jpg){width="80%" align="center"}
+
+------------------------------------------------------------------------
 
 ## 4. River Continuum Concept
 
-- Vannote et al. (1980)
-- Gradiente de energía:
-  - Altos: hojarasca → trituradores
-  - Medios: algas → ramoneadores
-  - Bajos: detritos finos → colectores
+-   Vannote et al. (1980)
+-   Gradiente de energía:
+    -   Altos: hojarasca → trituradores
+    -   Medios: algas → ramoneadores
+    -   Bajos: detritos finos → colectores
 
----
+------------------------------------------------------------------------
 
 ## Críticas y teorías actuales
 
-- **Flood Pulse Concept** (Junk et al. 1989)
-- **Riverine Productivity Model** (Thorp & Delong 1994)
-- **Network Dynamics Hypothesis** (Benda et al. 2004)
-- **Meta-ecosystems**: intercambio de energía y organismos
+-   **Flood Pulse Concept** (Junk et al. 1989)
+-   **Riverine Productivity Model** (Thorp & Delong 1994)
+-   **Network Dynamics Hypothesis** (Benda et al. 2004)
+-   **Meta-ecosystems**: intercambio de energía y organismos
 
----
+------------------------------------------------------------------------
 
 ## 5. Hábitats en ríos
 
 ### Mesohábitats
 
-- Pozas, rápidos, remansos
+-   Pozas, rápidos, remansos
 
 ### Microhábitats
 
-- Caracterizados por: velocidad, profundidad, sustrato, cobertura
+-   Caracterizados por: velocidad, profundidad, sustrato, cobertura
 
----
+------------------------------------------------------------------------
 
 ## Ejemplos sudamericanos
 
-- *Rhamdia quelen* – pozas
-- *Jenynsia multidentata* – vegetación sumergida
-- *Heptapterus mustelinus* – rápidos
+-   *Rhamdia quelen* – pozas
+-   *Jenynsia multidentata* – vegetación sumergida
+-   *Heptapterus mustelinus* – rápidos
 
 **Caudal ecológico** → mantiene hábitats críticos para todas las etapas del ciclo de vida
 
----
+------------------------------------------------------------------------
 
 ## Actividad en clase
 
-Analizar esquemas de tramos de ríos:  
-- Identificar hábitats  
-- Asociar especies  
+Analizar esquemas de tramos de ríos:\
+- Identificar hábitats\
+- Asociar especies\
 - Evaluar rol del caudal ecológico
 
----
+------------------------------------------------------------------------
 
 ## Lecturas recomendadas
 
-- Vannote et al. (1980)  
-- Junk et al. (1989)  
-- Thorp & Delong (1994)  
-- Benda et al. (2004)  
-- \"Ecología Fluvial - PECES\"
+-   Vannote et al. (1980)\
+-   Junk et al. (1989)\
+-   Thorp & Delong (1994)\
+-   Benda et al. (2004)\
+-   "Ecología Fluvial - PECES"
 
 ## Diapositiva 1: Portada
 
@@ -283,4 +283,3 @@ Analizar esquemas de tramos de ríos:
 
 -   Preguntas y repaso
 -   Comentarios finales
-

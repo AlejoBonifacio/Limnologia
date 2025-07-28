@@ -1,0 +1,17 @@
+# Archivos de RStudio
+.Rproj.user/
+*.Rproj
+
+# Archivos Quarto generados
+*.html
+*.pdf
+*.docx
+_site/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db

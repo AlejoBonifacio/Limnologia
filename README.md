@@ -18,5 +18,6 @@ Este repositorio contiene materiales docentes diseñados para un curso universit
 Este material puede ser reutilizado y adaptado bajo la licencia [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ---
-Docente: [Tu nombre]  
-Institución: [Tu universidad o centro de investigación]
+Docente: Alejo Fabián Bonifacio  
+Institución: Cátedra de Diversidad Biológica IV, Universidad Nacional de Córdoba, Facultad de Ciencias Exactas, Físicas y Naturales, Córdoba, Argentina.
+Instituto de Diversidad y Ecología Animal (IDEA), Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Córdoba, Argentina.

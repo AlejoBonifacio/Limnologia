@@ -39,11 +39,9 @@ Los ríos presentan un gradiente longitudinal que puede dividirse, clásicamente
 -   **Potamon:** tramo bajo con aguas más lentas, cálidas y turbias, con sustrato fino.
     -   Ejemplo: *Hoplias argentinensis*, tolera baja oxigenación y condiciones estables.
 
-
 ## Comparación entre Ritron y Potamon
 
-![Comparación de zonas fluviales](clasesLimno_files/images/ritron_potamon.png){width=90% align=center}
-
+![Comparación de zonas fluviales](clasesLimno_files/images/ritron_potamon.png){width="90%" align="center"}
 
 ------------------------------------------------------------------------
 
@@ -60,7 +58,8 @@ Los ríos presentan un gradiente longitudinal que puede dividirse, clásicamente
 
 ![Tomado de: Weisse, Thomas. (2008). Limnoecology: The Ecology of Lakes and Streams. Journal of Plankton Research - J PLANKTON RES. 30. 489-490. 10.1093/plankt/fbn013.](ordenrios.jpg){width="80%" align="center"}
 
-------------------------------------------------------------------------
+## 3. Cuenca hidrográfica            
+Número de Orden de un ambiente lótico 
 
 ## 4. River Continuum Concept
 

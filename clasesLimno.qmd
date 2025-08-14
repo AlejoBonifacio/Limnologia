@@ -1,5 +1,5 @@
 ---
-title: "clase1-sistemas-loticos"
+title: "Sistemas loticos - Parte I"
 author: "Alejo Bonifacio"
 format: revealjs
 editor: visual
@@ -59,7 +59,8 @@ Los ríos presentan un gradiente longitudinal que puede dividirse, clásicamente
 ![Tomado de: Weisse, Thomas. (2008). Limnoecology: The Ecology of Lakes and Streams. Journal of Plankton Research - J PLANKTON RES. 30. 489-490. 10.1093/plankt/fbn013.](ordenrios.jpg){width="80%" align="center"}
 
 ## 3. Cuenca hidrográfica            
-Número de Orden de un ambiente lótico 
+
+Actividad 1 
 
 ## 4. River Continuum Concept
 

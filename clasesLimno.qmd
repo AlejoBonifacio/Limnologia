@@ -72,6 +72,10 @@ Actividad 1
 
 0 = P - ET - Es - In
 
+## 4. Balance hídrico
+
+![](act2.jpg){width="100%" align="center"}
+
 ## 4. River Continuum Concept
 
 -   Vannote et al. (1980)

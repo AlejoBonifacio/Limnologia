@@ -22,7 +22,7 @@ editor: visual
 ### Comparación Léntico vs Lótico
 
 | Característica | Léntico | Lótico |
-|---------------------|------------------------|---------------------------|
+|----|----|----|
 | Movimiento del agua | Estacionario | Unidireccional |
 | Estratificación | Vertical (luz, O₂, temp.) | Mezcla continua |
 | Energía | Autóctona | Autóctona + Alóctona |
@@ -58,9 +58,9 @@ Los ríos presentan un gradiente longitudinal que puede dividirse, clásicamente
 
 ![Tomado de: Weisse, Thomas. (2008). Limnoecology: The Ecology of Lakes and Streams. Journal of Plankton Research - J PLANKTON RES. 30. 489-490. 10.1093/plankt/fbn013.](ordenrios.jpg){width="80%" align="center"}
 
-## 3. Cuenca hidrográfica            
+## 3. Cuenca hidrográfica
 
-Actividad 1 
+Actividad 1
 
 ## 4. River Continuum Concept
 

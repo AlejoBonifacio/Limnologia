@@ -22,7 +22,7 @@ editor: visual
 ### Comparación Léntico vs Lótico
 
 | Característica | Léntico | Lótico |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | Movimiento del agua | Estacionario | Unidireccional |
 | Estratificación | Vertical (luz, O₂, temp.) | Mezcla continua |
 | Energía | Autóctona | Autóctona + Alóctona |
@@ -61,6 +61,16 @@ Los ríos presentan un gradiente longitudinal que puede dividirse, clásicamente
 ## 3. Cuenca hidrográfica
 
 Actividad 1
+
+**Objetivo:** Aplicar el método de Horton–Strahler para jerarquizar cursos de agua de una cuenca y discutir implicancias ecológicas.
+
+**Identificación:** Asignar el orden 1 a todos los cauces sin afluentes. Cuando dos cauces de igual orden se unen, el orden aumenta +1. Si son de distinto orden, el resultado mantiene el orden más alto.
+
+**Coloreado**: Pintar con colores diferentes cada orden en el mapa.
+
+## 4. Balance hídrico
+
+0 = P - ET - Es - In
 
 ## 4. River Continuum Concept
 
